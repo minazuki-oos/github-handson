@@ -32,3 +32,4 @@ public class ArraylistExample {
         System.out.println(stringList);
     }
 }
+re

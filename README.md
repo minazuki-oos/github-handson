@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 課題①
 public class Main {
     public static void main(String[] args) {
@@ -33,3 +34,7 @@ public class ArraylistExample {
     }
 }
 re
+=======
+# github-handson
+a
+>>>>>>> main
